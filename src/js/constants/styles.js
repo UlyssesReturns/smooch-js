@@ -3,3 +3,8 @@ export const ANIMATION_TIMINGS = {
 };
 
 export const SK_PURPLE = '#92278f';
+
+export const DISPLAY_STYLE = {
+    BADGE: 'badge',
+    TAB: 'tab'
+};
